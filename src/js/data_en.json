@@ -1,0 +1,486 @@
+[
+    {
+        "item": "p1",
+        "bookable": "yes",
+        "carpark":"P1",
+        "carparkName":"Car park P1",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"3",
+        "routeT2":"10",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p2",
+        "bookable": "no",
+        "carpark":"P2",
+        "carparkName":"Car park P2",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"3",
+        "routeT2":"10",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p3",
+        "bookable": "no",
+        "carpark":"P3",
+        "carparkName":"Car park P3",
+        "category":"terminal electric",
+        "categoryName":"Parking with electric charging",
+        "routeType":"walk",
+        "routeT1":"3",
+        "routeT2":"10",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p4",
+        "bookable": "no",
+        "carpark":"P4",
+        "carparkName":"Car park P4",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"3",
+        "routeT2":"10",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p5",
+        "bookable": "yes",
+        "carpark":"P5",
+        "carparkName":"Car park P5",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"2",
+        "routeT2":"10",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p7",
+        "bookable": "yes",
+        "carpark":"P7",
+        "carparkName":"Car park P7",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"2",
+        "routeT2":"10",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p8",
+        "bookable": "yes",
+        "carpark":"P8",
+        "carparkName":"Car park P8",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"2",
+        "routeT2":"10",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p20",
+        "bookable": "yes",
+        "carpark":"P20",
+        "carparkName":"Car park P20",
+        "category":"terminal valet electric",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"5",
+        "routeT2":"2",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br />Three optional pick-up spaces indicated in map above<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p25",
+        "bookable": "no",
+        "carpark":"P25",
+        "carparkName":"Car park P25",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"5",
+        "routeT2":"2",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p26",
+        "bookable": "no",
+        "carpark":"P26",
+        "carparkName":"Car park P26",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"5",
+        "routeT2":"2",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p27",
+        "bookable": "no",
+        "carpark":"P27",
+        "carparkName":"Car park P27",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"5",
+        "routeT2":"2",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p35",
+        "bookable": "no",
+        "carpark":"P35",
+        "carparkName":"Car park P35",
+        "category":"terminal",
+        "categoryName":"Terminal parking",
+        "routeType":"walk",
+        "routeT1":"5",
+        "routeT2":"2",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Ideal location for all flights from Terminal 1<br /> Guaranteed parking space<br /> Free cancellation up to 24 hours prior to the scheduled arrival time<br /> Convenient parking at the terminal – Take off relaxed",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "2":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p41n",
+        "bookable": "yes",
+        "carpark":"P41",
+        "carparkPosition": "North",
+        "carparkName":"Park area P41 North",
+        "category":"budget",
+        "categoryName":"Budget parking",
+        "routeType":"bus",
+        "routeT1":"6",
+        "routeT2":"8",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Open spaces with the best connection<br />Guaranteed parking space<br />Direct and free transfer from P41 north / south to the terminals with bus line 635 in<br />20 minutes. In the period from 00:36 - 03:56 clock no transfer.<br />Free cancellation up to 24 hours before booked entry time",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Shuttle bus service",
+                "accordeonText":"Free shuttle bus service to Terminal 1 and Terminal 2 by bus linie 635 station \"Urlauberparkplatz\" in 20 Minutes. In the period from 00:36 - 03:56 clock no transfer. The transfer takes about 10 minutes. <br />Car park ticket entitles the holder to use bus and/or S-Bahn free of charge on the airport grounds.  The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "2":{
+                "accordeonName":"Suburban train",
+                "accordeonText":"Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
+            },
+            "3":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "4":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p41s",
+        "bookable": "yes",
+        "carpark":"P41",
+        "carparkPosition": "South",
+        "carparkName":"Park area P41 South",
+        "category":"budget",
+        "categoryName":"Budget parking",
+        "routeType":"bus",
+        "routeT1":"6",
+        "routeT2":"8",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Open spaces with the best connection<br />Guaranteed parking space<br />Direct and free transfer from P41 north / south to the terminals with bus line 635 in<br />20 minutes. In the period from 00:36 - 03:56 clock no transfer.<br />Free cancellation up to 24 hours before booked entry time",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Shuttle bus service",
+                "accordeonText":"Free shuttle bus service to Terminal 1 and Terminal 2 by bus linie 635 station \"Urlauberparkplatz\" in 20 Minutes. In the period from 00:36 - 03:56 clock no transfer. The transfer takes about 10 minutes. <br />Car park ticket entitles the holder to use bus and/or S-Bahn free of charge on the airport grounds.  The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "2":{
+                "accordeonName":"Suburban train",
+                "accordeonText":"Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
+            },
+            "3":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "4":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p51",
+        "bookable": "yes",
+        "carpark":"P51",
+        "carparkName":"Car park P51",
+        "category":"budget",
+        "categoryName":"Budget parking",
+        "routeType":"bus",
+        "routeT1":"8",
+        "routeT2":"10",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Value for money car park<br />Guaranteed parking space<br />Walking distance to S-Bahn Station „Besucherpark“: 800m<br />Free transfer from S-Bahn-Station „Besucherpark“ to „Flughafen Terminal“ by S-Bahn, departure times may be subject to change<br />from „Besucherpark“ in direction „Flughafen Terminal“ from 03:53 hrs to 00:53 hrs<br />from „Flughafen Terminal“ in direction „Besucherpark“ from 04:04 hrs to 00:44 hrs<br />Lifts in the car park are only located at the eastern end of the building<br />Free cancellation up to 24 hours before booked entry time",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Shuttle bus service",
+                "accordeonText":"Free shuttle bus service to Terminal 1 and Terminal 2 by bus linie 635 station \"Besucherpark\" in 20 Minutes. In the period from 00:36 - 03:56 clock no transfer. The transfer takes about 10 minutes. <br />Car park ticket entitles the holder to use bus and/or S-Bahn free of charge on the airport grounds.  The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "2":{
+                "accordeonName":"Suburban train",
+                "accordeonText":"Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark im 10 Minutentakt<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn<br />Parkticket berechtigt alle Reisende zur kostenlosen Nutzung von S-Bahn und/oder Bus auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+            },
+            "3":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "4":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p80e",
+        "bookable": "yes",
+        "carpark":"P80",
+        "carparkPosition": "East",
+        "carparkName":"Park area P80 East",
+        "category":"budget",
+        "categoryName":"Budget parking",
+        "routeType":"bus",
+        "routeT1":"8",
+        "routeT2":"10",
+        "buttonText":"Get your parking spot",
+        "buttonLinkAdress":"https://parken.munich-airport.de/en/",
+        "description":"Open spaces with the best connection<br />Guaranteed parking space<br />Direct and free transfer to the terminals with bus and train in<br />20 minutes. <br />Free cancellation up to 24 hours before booked entry time",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Shuttle bus service",
+                "accordeonText":"Free shuttle bus service to Terminal 1 and Terminal 2 by bus linie 635 station \"Besucherpark\" in 20 Minutes. In the period from 00:36 - 03:56 clock no transfer. The transfer takes about 10 minutes. <br />Car park ticket entitles the holder to use bus and/or S-Bahn free of charge on the airport grounds.  The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "2":{
+                "accordeonName":"Suburban train",
+                "accordeonText":"Free suburban train (S-Bahn) shuttle service to Terminal 1 and Terminal 2 from station \"Besucherpark\"<br />    S1: from 04:24 to 00:00 hours (every 20 minutes)<br />    S8: from 00:53 to 00:33 hours (every 20 minutes)<br />    A short walk takes you to the S-Bahn station Besucherpark, follow the signs to the S-Bahn station<br />    Car park ticket entitles the holder to use the suburban train (S-Bahn) free of charge on the airport grounds. The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "3":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "4":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p80w",
+        "bookable": "no",
+        "carpark":"P80",
+        "carparkPosition": "West",
+        "carparkName":"Park area P80 West",
+        "category":"",
+        "categoryName":"Parking",
+        "routeType":"bus",
+        "routeT1":"8",
+        "routeT2":"10",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Open spaces with the best connection<br />Guaranteed parking space<br />Direct and free transfer to the terminals with bus and train in<br />20 minutes. <br />Free cancellation up to 24 hours before booked entry time",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Shuttle bus service",
+                "accordeonText":"Free shuttle bus service to Terminal 1 and Terminal 2 by bus linie 635 station \"Besucherpark\" in 20 Minutes. In the period from 00:36 - 03:56 clock no transfer. The transfer takes about 10 minutes. <br />Car park ticket entitles the holder to use bus and/or S-Bahn free of charge on the airport grounds.  The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "2":{
+                "accordeonName":"Suburban train",
+                "accordeonText":"Free suburban train (S-Bahn) shuttle service to Terminal 1 and Terminal 2 from station \"Besucherpark\"<br />    S1: from 04:24 to 00:00 hours (every 20 minutes)<br />    S8: from 00:53 to 00:33 hours (every 20 minutes)<br />    A short walk takes you to the S-Bahn station Besucherpark, follow the signs to the S-Bahn station<br />    Car park ticket entitles the holder to use the suburban train (S-Bahn) free of charge on the airport grounds. The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "3":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "4":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    },
+    {
+        "item": "p81",
+        "bookable": "no",
+        "carpark":"P81",
+        "carparkName":"Car park P81",
+        "category":"",
+        "categoryName":"Parking",
+        "routeType":"bus",
+        "routeT1":"8",
+        "routeT2":"10",
+        "buttonText":"",
+        "buttonLinkAdress":"",
+        "description":"Car park with the best price-perfomance ratio<br />Guaranteed parking space<br />Direct and free transfer to the terminals with bus and train <br />Free cancellation up to 24 hours before booked entry time",
+        "accordeon":{
+            "1":{
+                "accordeonName":"Shuttle bus service",
+                "accordeonText":"Free shuttle bus service to Terminal 1 and Terminal 2 by bus linie 635 station \"Besucherpark\" in 20 Minutes. In the period from 00:36 - 03:56 clock no transfer. The transfer takes about 10 minutes. <br />Car park ticket entitles the holder to use bus and/or S-Bahn free of charge on the airport grounds.  The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "2":{
+                "accordeonName":"Suburban train",
+                "accordeonText":"Free suburban train (S-Bahn) shuttle service to Terminal 1 and Terminal 2 from station \"Besucherpark\"<br />    S1: from 04:24 to 00:04 hours (every 20 minutes)<br />    S8: from 00:53 to 00:33 hours (every 20 minutes)<br />    A short walk takes you to the S-Bahn station Besucherpark, follow the signs to the S-Bahn station<br />    Car park ticket entitles the holder to use the suburban train (S-Bahn) free of charge on the airport grounds. The parking ticket will be issued automatically at the entrance to the parking area, please keep it well."
+            },
+            "3":{
+                "accordeonName":"Using the QR-Code",
+                "accordeonText":"Print out the booking confirmation with QR Code for entry to the car park<br />Hold the QR Code in front of the scanner at the entry point<br />Ticket will be automatically issued which you should then take from the ticket machine<br />Barrier opens and you can drive into the car park<br />Since your ticket has already been paid for you can drive directly to the exit barrier in the car park.<br />If the duration of your stay varies from the booking please go to the parking payment machine and insert your ticket bevor leaving<br />Should you have any problems please push the button at the parking cash machine to call the parking control center"
+            },
+            "4":{
+                "accordeonName":"Cancellation your car park booking ",
+                "accordeonText":"Cancellation free of charge up to 24 hours before booked entry<br />A processing fee of EUR 15 will be charged if your reservation is cancelled in the 24 hours before booked entry. If the reservation is not used and not cancelled on time, the booked amount will not be refunded."
+            }
+        }
+    }
+]

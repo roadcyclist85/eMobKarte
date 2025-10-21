@@ -1,0 +1,520 @@
+[
+  {
+    "item": "p1",
+    "bookable": "yes",
+    "carpark":"P1",
+    "carparkName":"Parkhaus P1",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"3",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p2",
+    "bookable": "no",
+    "carpark":"P2",
+    "carparkName":"Parkhaus P2",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"3",
+    "routeT2":"10",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p3",
+    "bookable": "yes",
+    "carpark":"P3",
+    "carparkName":"Parkhaus P3",
+    "category":"terminal electric",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"3",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p4",
+    "bookable": "no",
+    "carpark":"P4",
+    "carparkName":"Parkhaus P4",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"3",
+    "routeT2":"10",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p5",
+    "bookable": "yes",
+    "carpark":"P5",
+    "carparkName":"Parkhaus P5",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"2",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p7",
+    "bookable": "yes",
+    "carpark":"P7",
+    "carparkName":"Parkhaus P7",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"2",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p8",
+    "bookable": "yes",
+    "carpark":"P8",
+    "carparkName":"Parkhaus P8",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"2",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p20",
+    "bookable": "yes",
+    "carpark":"P20",
+    "carparkName":"Parkhaus P20",
+    "category":"terminal valet electric",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"5",
+    "routeT2":"2",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Drei Fahrzeug-Übernahmepunkte in obiger Karte verzeichnet <br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p25",
+    "bookable": "no",
+    "carpark":"P25",
+    "carparkName":"Parkhaus P25",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"5",
+    "routeT2":"2",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p26",
+    "bookable": "no",
+    "carpark":"P26",
+    "carparkName":"Parkhaus P26",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"5",
+    "routeT2":"2",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p27",
+    "bookable": "no",
+    "carpark":"P27",
+    "carparkName":"Parkhaus P27",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"5",
+    "routeT2":"2",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p35",
+    "bookable": "no",
+    "carpark":"P35",
+    "carparkName":"Parkhaus P35",
+    "category":"terminal",
+    "categoryName":"Terminal Parken",
+    "routeType":"walk",
+    "routeT1":"5",
+    "routeT2":"2",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Bestlage für alle Abflüge ab Terminal 1 und 2<br />Garantierter Stellplatz<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit<br />Terminalnah parken - Entspannt abheben",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "2":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p41n",
+    "bookable": "yes",
+    "carpark":"P41",
+    "carparkPosition": "Nord",
+    "carparkName":"Parkfläche P41 Nord",
+    "category":"budget",
+    "categoryName":"Budget Parken",
+    "routeType":"bus",
+    "routeT1":"6",
+    "routeT2":"8",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Freifläche mit bester Verbindung<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer von P41 Süd zu den Terminals mit Bus Linie 635 im<br />20 Minutentakt. Im Zeitraum von 00:36 - 03:56 Uhr kein Transfer.<br />Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit kostenlos.",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Die Buslinie 635 fährt im 20 Minutentakt zwischen P41 Nord/Süd Haltestelle Urlauberparkplatz und den Terminals. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierbung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p41s",
+    "bookable": "yes",
+    "carpark":"P41",
+    "carparkPosition": "Süd",
+    "carparkName":"Parkfläche P41 Süd",
+    "category":"budget",
+    "categoryName":"Budget Parken",
+    "routeType":"bus",
+    "routeT1":"6",
+    "routeT2":"8",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Freifläche mit bester Verbindung<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer von P41 Süd zu den Terminals mit Bus Linie 635 im<br />20 Minutentakt. Im Zeitraum von 00:36 - 03:56 Uhr kein Transfer.<br />Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit kostenlos",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Die Buslinie 635 fährt im 20 Minutentakt zwischen P41 Nord/Süd Haltestelle Urlauberparkplatz und den Terminals. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p51",
+    "bookable": "yes",
+    "carpark":"P51",
+    "carparkPosition": "",
+    "carparkName":"Parkhaus P51",
+    "category":"budget",
+    "categoryName":"Budget Parken",
+    "routeType":"bus",
+    "routeT1":"8",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Parkhaus zum gutem Preis-/Leistungsverhältnis<br />Garantierter Stellplatz<br />Fußweg zur S-Bahnstation „Besucherpark“ ca. 800m<br />Kostenloser Transfer mit Bus oder S-Bahn Haltestelle „Besucherpark“ zu den Terminals, unverbindliche Abfahrtszeiten<br />ab „Besucherpark“ in Richtung „Flughafen Terminal“ 03:53 Uhr bis 00:53 Uhr<br />ab „Flughafen Terminal“ in Richtung „Besucherpark“ 04:04 Uhr bis 00:44 Uhr  (S-Bahnfahrplan Stand 27.05.2019)<br />Lifte im Parkhaus P51 befinden sich nur am östlichen Ende des Gebäudes<br />Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit kostenlos",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Direkter und kostenloser Bustransfer zu den Terminals mit der MVV-Linie 635 Haltestelle Besucherpark <br />Alle 20 Minuten von 03:56 bis 00:36 Uhr. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark im 10 Minutentakt<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn<br />Parkticket berechtigt alle Reisende zur kostenlosen Nutzung von S-Bahn und/oder Bus auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p80e",
+    "bookable": "yes",
+    "carpark":"P80",
+    "carparkPosition": "Ost",
+    "carparkName":"Parkfläche P80 Ost",
+    "category":"budget",
+    "categoryName":"Budget Parken",
+    "routeType":"bus",
+    "routeT1":"8",
+    "routeT2":"10",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Freifläche mit bester Verbindung<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer zu den Terminals mit Bus und S-Bahn<br />Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit kostenlos",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Direkter und kostenloser Bustransfer zu den Terminals mit der MVV-Linie 635 Haltestelle Besucherpark <br />Alle 20 Minuten von 03:56 bis 00:36 Uhr. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p80w",
+    "bookable": "no",
+    "carpark":"P80",
+    "carparkPosition": "West",
+    "carparkName":"Parkfläche P80 West",
+    "category":"",
+    "categoryName":"Parken",
+    "routeType":"bus",
+    "routeT1":"8",
+    "routeT2":"10",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Freifläche mit direkter Verbindung zu den Terminals<br /> Bestes Preis-/Leistungsverhältnis<br />Parkplatz für Wohnwägen und Transporter<br />Kostenloser Transfer zu den Terminals mit Bus und S-Bahn",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Direkter und kostenloser Bustransfer zu den Terminals mit der MVV-Linie 635 Haltestelle Besucherpark <br />Alle 20 Minuten von 03:56 bis 00:36 Uhr. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p81",
+    "bookable": "no",
+    "carpark":"P81",
+    "carparkName":"Parkhaus P81",
+    "category":"",
+    "categoryName":"Parken",
+    "routeType":"bus",
+    "routeT1":"8",
+    "routeT2":"10",
+    "buttonText":"",
+    "buttonLinkAdress":"",
+    "description":"Parkhaus zum besten Preis-/Leistungsverhältnis<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer zu den Terminals mit Bus und S-Bahn<br />Kostenlose Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Direkter kostenloser Bustransfer zu den Terminals mit der MVV-Linie 635 Haltestelle Besucherpark <br />Alle 20 Minuten von 03:56 bis 00:36 Uhr. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen und überdachten Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  },
+  {
+    "item": "p84",
+    "bookable": "yes",
+    "carpark":"P84",
+    "carparkPosition": "Süd",
+    "carparkName":"Parkfläche P84",
+    "category":"budget",
+    "categoryName":"Budget Parken",
+    "routeType":"bus",
+    "routeT1":"6",
+    "routeT2":"8",
+    "buttonText":"Jetzt Parkplatz buchen",
+    "buttonLinkAdress":"https://parken.munich-airport.de/de/",
+    "description":"Freifläche mit bester Verbindung<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer von P41 Süd zu den Terminals mit Bus Linie 635 im<br />20 Minutentakt. Im Zeitraum von 00:36 - 03:56 Uhr kein Transfer.<br />Stornierung bis 24 Stunden vor gebuchter Einfahrtszeit kostenlos",
+    "accordeon":{
+      "1":{
+        "accordeonName":"Bustransfer",
+        "accordeonText":"Die Buslinie 635 fährt im 20 Minutentakt zwischen P41 Nord/Süd Haltestelle Urlauberparkplatz und den Terminals. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+      },
+      "2":{
+        "accordeonName":"S-Bahn Transfer",
+        "accordeonText":"Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
+      },
+      "3":{
+        "accordeonName":"Nutzung QR-Code",
+        "accordeonText":"Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+      },
+      "4":{
+        "accordeonName":"Stonierung Ihrer Parkplatzbuchung",
+        "accordeonText":"Kostenlose Stornierung bis zu 24 Stunden vor gebuchter Einfahrt möglich.<br />Ab 24 Stunden vor gebuchter Einfahrt wird eine Bearbeitungsgebühr in Höhe von 15 Euro in Rechnung gestellt.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+      }
+    }
+  }
+]

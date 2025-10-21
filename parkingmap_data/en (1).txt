@@ -1,0 +1,610 @@
+[
+    {
+        "item": "p1",
+        "bookable": "yes",
+        "carpark": "P1",
+        "carparkName": "Car park P1",
+        "category": "terminal",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "2",
+        "routeT2": "10",
+        "buttonText": "Find your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 1, modul A-C<br />Walk to the terminal in less than a few minutes<br />Excellent value for money for private and business travellers",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p2",
+        "bookable": "yes",
+        "carpark": "P2",
+        "carparkName": "Car park P2",
+        "category": "terminal",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "2",
+        "routeT2": "10",
+        "buttonText": "Find your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 1, modul A-C<br />Walk to the terminal in less than a few minutes<br />Excellent value for money for private and business travellers",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p3",
+        "bookable": "yes",
+        "carpark": "P3",
+        "carparkName": "Car park P3",
+        "category": "terminal electric",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "2",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 1, modul C-E<br />Walk to the terminal in less than a few minutes<br />Parking garage with spaces for electric vehicles (subject to availability)<br />The parking spaces are located in P3 on level 03.<br />Further information on electric charging: <a href='https://www.munich-airport.com/charging-electric-vehicles-8499114'>Charging the electric vehicle</a>",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p4",
+        "bookable": "yes",
+        "carpark": "P4",
+        "carparkName": "Car park P4",
+        "category": "terminal",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "2",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 1, modul C-E<br />Walk to the terminal in less than a few minutes<br />Excellent value for money for private and business travellers",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+        {
+        "item": "p5",
+        "bookable": "yes",
+        "carpark": "P5",
+        "carparkName": "Car park P5",
+        "category": "terminal",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "2",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 1<br />Walk to the terminal in less than a few minutes<br />Excellent value for money for private and business travellers",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p7",
+        "bookable": "yes",
+        "carpark": "P7",
+        "carparkName": "Car park P7",
+        "category": "terminal",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "2",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Centrally located car park<br />Few minutes walk to Terminal 1<br />Excellent value for money for private and business travellers",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p8",
+        "bookable": "yes",
+        "carpark": "P50",
+        "carparkName": "Park area P50",
+        "category": "budget",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "8",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "The parking area with the best price/performance ratio.<br />Park inexpensively directly on the outdoor parking areas in the airport area.<br />Open spaces are suitable for vans - entry height over two meters.<br />A few minutes' walk from parking area P50 via the signposted footpath to the Besucherpark S-Bahn station.<br />Free transfer to the terminals by S-Bahn line S1/S8 and bus line 635.",
+        "accordeon": {
+            "1": {
+                "accordeonName": "S-Bahn Transfer",
+                "accordeonText": "Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark im 10 Minutentakt<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn<br />Parkticket berechtigt alle Reisende zur kostenlosen Nutzung von S-Bahn und/oder Bus auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+            },
+            "2": {
+                "accordeonName": "Bustransfer",
+                "accordeonText": "Direkter und kostenloser Bustransfer zu den Terminals mit der MVV-Linie 635 Haltestelle Besucherpark <br />Alle 20 Minuten von 03:56 bis 00:36 Uhr. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+            },
+            "3": {
+                "accordeonName": "Nutzung QR-Code",
+                "accordeonText": "Buchungsbestätigung mit QR-Code für die Einfahrt ins Car park ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Car park einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+            },
+            "4": {
+                "accordeonName": "Stonierung Ihrer Parkplatzbuchung",
+                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkingtgelt einbehalten."
+            }
+        }
+    },
+    {
+        "item": "p20",
+        "bookable": "yes",
+        "carpark": "P20",
+        "carparkName": "Car park P20",
+        "category": "terminal valet electric",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "5",
+        "routeT2": "2",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 2<br />Parking garage with spaces for electric vehicles (subject to availability)<br />The parking spaces are located in P20 on level 02<br />Further information on electric charging: <a href='https://www.munich-airport.com/charging-electric-vehicles-8499114'>Charging the electric vehicle</a><br />Additional premium services (e.g. car wash) available - for more information, go to: <a href='https://www.munich-airport.com/premium-parking-261805'>Premium Parking Munich Airport</a>",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p26",
+        "bookable": "yes",
+        "carpark": "P26",
+        "carparkName": "Car park P26",
+        "category": "terminal electric",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "5",
+        "routeT2": "2",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Ideally situated car park for flights from Terminal 2<br />Parking garage with spaces for electric vehicles (subject to availability)<br />The parking spaces are located in P26 on level 02<br />Further information on electric charging: <a href='https://www.munich-airport.com/charging-electric-vehicles-8499114'>Charging the electric vehicle</a>",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out"
+            },
+            "2": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p27",
+        "bookable": "no",
+        "carpark": "P27",
+        "carparkName": "Park area P27",
+        "category": "terminal",
+        "categoryName": "Terminal Parking",
+        "routeType": "walk",
+        "routeT1": "5",
+        "routeT2": "2",
+        "buttonText": "",
+        "buttonLinkAdress": "",
+        "description": "Ideally located car park for visits to the doctor in the Munich Airport Center<br />Parking lot P27 is only suitable for short parking times<br />The parking garages near the terminal are recommended for longer parking times"
+    },
+    {
+        "item": "p35",
+        "bookable": "no",
+        "carpark": "P35",
+        "carparkName": "Park area P35",
+        "category": "",
+        "categoryName": "",
+        "routeType": "walk",
+        "routeT1": "5",
+        "routeT2": "2",
+        "buttonText": "",
+        "buttonLinkAdress": "",
+        "description": "The open car park is available to visitors to the General Aviation Terminal (GAT). If your flight departs from Terminal 1 or Terminal 2, please use an alternative car park."
+    },
+    {
+        "item": "p41",
+        "bookable": "yes",
+        "carpark": "P41",
+        "carparkName": "Park area P41",
+        "category": "budget",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "6",
+        "routeT2": "8",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Open parking space with the best price / performance ratio<br />Car park for caravans and transporters<br />Free transfer by bus line 635 to Terminal 1 and Terminal 2",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the P41/Novotel stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop Besucherparkplatz (visitor parking lot)<br /> S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br /> S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p43",
+        "bookable": "yes",
+        "carpark": "P43",
+        "carparkName": "Car park P43",
+        "category": "budget",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "6",
+        "routeT2": "8",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Car park with best connection to the terminals.<br />Guaranteed and protected parking space.<br />Direct and free transfer from P43 to the terminals with bus 635 every 10 minutes from 03:42 until 00:52.<br />Free cancellation up to the booked entry time.<br />",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the P41/Novotel stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop Besucherparkplatz (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p44",
+        "bookable": "yes",
+        "carpark": "P44",
+        "carparkName": "Car park P44",
+        "category": "budget electric",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "6",
+        "routeT2": "8",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en/",
+        "description": "Car park with best connection to the terminals.<br />Guaranteed and protected parking space.<br />Direct and free transfer from P44 to the terminals with bus 635 every 10 minutes from 03:42 until 00:52.<br />Free cancellation up to the booked entry time.<br />Parking garage with spaces for electric vehicles (subject to availability)<br />The parking spaces are located in P44 on level 04<br />Further information on electric charging: <a href='https://www.munich-airport.com/charging-electric-vehicles-8499114'>Charging the electric vehicle</a>",        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the P44/LabCampus stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop Besucherparkplatz (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p50",
+        "bookable": "yes",
+        "carpark": "P50",
+        "carparkPosition": "",
+        "carparkName": "Park area P50",
+        "category": "budget",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "8",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Car park with direct connection to the terminals<br />Open spaces are suitable for motorhomes and vans - entrance height over two meters.<br />In a few minutes you reach from the car park P51 the signposted footpath to the S-Bahn station \"Besucherpark\"<br />Free transfer by train line S1 and S8 to Terminal 1 and 2 every 10 minutes or bus line 635",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p51",
+        "bookable": "yes",
+        "carpark": "P51",
+        "carparkPosition": "",
+        "carparkName": "Car park P51",
+        "category": "budget",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "8",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Car park with direct connection to the terminals<br />In a few minutes you reach from the car park P51 the signposted footpath to the S-Bahn station \"Besucherpark\"<br />Free transfer by train line S1 and S8 to Terminal 1 and 2 every 10 minutes or bus line 635",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p55",
+        "bookable": "yes",
+        "carpark": "P55",
+        "carparkPosition": "",
+        "carparkName": "Park area P55",
+        "category": "budget",
+        "categoryName": "Economy Parking North",
+        "routeType": "bus",
+        "routeT1": "8",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Car park with direct connection to the terminals<br />In a few minutes you reach from the car park P51 the signposted footpath to the S-Bahn station \"Besucherpark\"<br />Free transfer by train line S1 and S8 to Terminal 1 and 2 every 10 minutes or bus line 635",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p73",
+        "bookable": "yes",
+        "carpark": "P73",
+        "carparkPosition": "",
+        "carparkName": "Park area P73",
+        "category": "budget",
+        "categoryName": "Economy Parking South",
+        "routeType": "bus",
+        "routeT1": "20",
+        "routeT2": "20",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Special parking: very affordable rates, but a longer walk to/from the S-Bahn station Besucherpark.<br />Tip: Let fellow passengers with luggage get out at the terminal before parking the vehicle.<br />Park at low cost directly in the outdoor parking spaces on the airport grounds.<br />Approx. 1.2 km walk to the S-Bahn station Besucherpark.<br />Free transfer to the terminals with S-Bahn line S1/S8 and bus line 635.",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p74",
+        "bookable": "yes",
+        "carpark": "P74",
+        "carparkPosition": "",
+        "carparkName": "Park area P74",
+        "category": "budget",
+        "categoryName": "Economy Parking South",
+        "routeType": "bus",
+        "routeT1": "20",
+        "routeT2": "20",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Special parking: very affordable rates, but a longer walk to/from the S-Bahn station Besucherpark.<br />Tip: Let fellow passengers with luggage get out at the terminal before parking the vehicle.<br />Park at low cost directly in the outdoor parking spaces on the airport grounds.<br />Approx. 1.2 km walk to the S-Bahn station Besucherpark.<br />Free transfer to the terminals with S-Bahn line S1/S8 and bus line 635.",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p84",
+        "bookable": "yes",
+        "carpark": "P84",
+        "carparkName": "Park area P84",
+        "category": "budget",
+        "categoryName": "Economy Parking South",
+        "routeType": "bus",
+        "routeT1": "6",
+        "routeT2": "8",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Park at low cost directly in the outdoor parking spaces on the airport grounds.<br />Free transfer to the terminals with S-Bahn line S1/S8 and bus line 635.",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p90",
+        "bookable": "yes",
+        "carpark": "P90",
+        "carparkName": "Car park P90",
+        "category": "budget",
+        "categoryName": "Economy Parking South",
+        "routeType": "bus",
+        "routeT1": "8",
+        "routeT2": "10",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Car park with direct connection to the terminals<br />Parking with online booking only on levels 06 and 07<br />In a few minutes you can walk from the car park P90 via the covered footpath to the S-Bahn station \"visitors park\"<br />Free transfer to the terminals with S-Bahn S1 and S8 every 10 minutes or bus line 635",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    },
+    {
+        "item": "p9123",
+        "bookable": "yes",
+        "carpark": "P91-93",
+        "carparkName": "Park area P91-93",
+        "category": "budget",
+        "categoryName": "Economy Parking South",
+        "routeType": "bus",
+        "routeT1": "6",
+        "routeT2": "8",
+        "buttonText": "Get your parking spot",
+        "buttonLinkAdress": "https://parken.munich-airport.de/en",
+        "description": "Park at low cost directly in the outdoor parking spaces on the airport grounds.<br />Free transfer to the terminals with S-Bahn line S1/S8 and bus line 635.",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Bus transfer",
+                "accordeonText": "Bus line 635 runs every 10 minutes from 3:42 a.m. to 00:52 a.m. between the \"Besucherpark\" stop and the terminals.<br />The transfer takes approximately 10 minutes and is free of charge for all passengers (upon presentation of the parking ticket). The parking ticket is issued automatically at the entrance to the parking area; please keep it in a safe place."
+            },
+            "2": {
+                "accordeonName": "S-Bahn transfer",
+                "accordeonText": "Direct free transfer with the S-Bahn Line S1 and S8 stop \"Besucherpark\" (visitor parking lot)<br />S1 every 20 minutes from 4:24 a.m. to 00:04 a.m.<br />S8 every 20 minutes from 00:53 a.m. to 00:33 a.m.<br />Parking ticket entitles you to free use of buses and/or S-Bahn trains on the airport grounds."
+            },
+            "3": {
+                "accordeonName": "Use QR-Code",
+                "accordeonText": "Print out the booking confirmation with a QR code for entry to the car park<br />Hold the QR code to the scanner on the entrance column<br />Ticket will be issued automatically, please deduct it<br />The barrier opens and you can drive into the car park<br />After your return journey, you don't have to go to the ticket machine - you can drive straight out with your parking ticket<br />Insert the parking ticket into the exit column, remove it, the barrier opens and you can drive out."
+            },
+            "4": {
+                "accordeonName": "Cancellation",
+                "accordeonText": "Free cancellation up to the booked entry time.<br />If the booking is not used and is not canceled in time, the booked parking fee will be retained."
+            }
+        }
+    }
+]
