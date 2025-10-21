@@ -1,0 +1,45 @@
+<html lang="de">
+<head>
+</head>
+<body>
+<iframe id="ipm_frame" src="app_de.html" width="100%" frameborder="0" scrolling="no" seamless="seamless"></iframe>
+<script type="text/javascript">
+  let frame_id = "ipm_frame",
+    origin =  null;
+
+  // modified from same-domain version at www.dyn-web.com/tutorials/iframes/height/
+  function setIframeHeightCO(id, ht) {
+    var ifrm = document.getElementById(id);
+    ifrm.style.visibility = 'hidden';
+    // some IE versions need a bit added or scrollbar appears
+    ifrm.style.height = ht + 4 + "px";
+    ifrm.style.visibility = 'visible';
+    window.frameElement.style.height = ht + 14 + "px";
+    window.frameElement.style.transition = "height 0.5s";
+  }
+
+
+  // iframed document sends its height using postMessage
+  function handleDocHeightMsg(e) {
+    // check origin
+    if ( (origin && e.origin === origin) || true) {
+      // parse data
+      var data = JSON.parse( e.data );
+      // check data object
+      if ( data['frameHeight'] ) {
+        setIframeHeightCO( frame_id, data['frameHeight'] );
+      } else if ( data['href'] ) {
+        setIframe(frame_id, data['href'] );
+      }
+    }
+  }
+
+  // assign message handler
+  if ( window.addEventListener ) {
+    window.addEventListener('message', handleDocHeightMsg, false);
+  } else if ( window.attachEvent ) { // ie8
+    window.attachEvent('onmessage', handleDocHeightMsg);
+  }
+</script>
+</body>
+</html>
