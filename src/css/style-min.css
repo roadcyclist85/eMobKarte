@@ -549,7 +549,7 @@ label {
     text-align: center
 }
 
-.pubpix-info__head__indicator-arrow[data-pubpix_category^=terminal] {
+.pubpix-info__head__indicator-arrow[data-pubpix_category^=fastcharging] {
     background: #C1C4F1
 }
 
