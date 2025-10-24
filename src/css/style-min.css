@@ -195,7 +195,7 @@ label {
     margin-left: 12px
 }
 
-#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_category^=charge] {
+#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_category^=fastcharging] {
     background: #C1C4F1;
     color: #24293F;
 }
@@ -214,11 +214,11 @@ label {
     background: #C3EDD5;
     color: #24293F;
 }
-/*
-#pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=terminal] {
+
+#pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=fastcharging] {
     background: #A6AAD1
 }
-*/
+/*
 #pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=budget] {
     background: #DAC8AD
 }
@@ -226,7 +226,7 @@ label {
 #pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=valet] {
     background: #C7ADC0
 }
-
+*/
 #pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=electric] {
     background: #C3EDD5;
 }
@@ -238,7 +238,7 @@ label {
     padding: 0 17px 2px 17px
 }
 
-#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=terminal] {
+#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=fastcharging] {
     background: #C1C4F1
 }
 
