@@ -242,14 +242,14 @@ label {
     background: #C1C4F1
 }
 
-#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=budget] {
+/*#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=budget] {
     background: #F6DFC0
 }
 
 #pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=valet] {
     background: #E6C6DB
 }
-
+*/
 #pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=electric] {
     background: #C3EDD5
 }
@@ -384,18 +384,18 @@ label {
         fill: #bdc2c3
     }
 
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=terminal] .pubpix-svg__map-st7,
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=terminal] .pubpix-svg__map-st7 {
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=fastcharging] .pubpix-svg__map-st7,
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=fastcharging] .pubpix-svg__map-st7 {
         fill: #C1C4F1
     }
 
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=terminal] .pubpix-svg__map-st1,
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=terminal] .pubpix-svg__map-st1 {
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=fastcharging] .pubpix-svg__map-st1,
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=fastcharging] .pubpix-svg__map-st1 {
         fill: #888BAC
     }
 
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=terminal] .pubpix-svg__map-st15,
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=terminal] .pubpix-svg__map-st15 {
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=fastcharging] .pubpix-svg__map-st15,
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=fastcharging] .pubpix-svg__map-st15 {
         fill: #A6AAD1
     }
 
