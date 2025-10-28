@@ -1,53 +1,5 @@
 [
-    {
-        "item": "p1",
-        "bookable": "yes",
-        "carpark": "P1",
-        "carparkName": "Parkhaus P1",
-        "category": "terminal",
-        "categoryName": "Terminal Parken",
-        "routeType": "walk",
-        "routeT1": "2",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 1, Modul A - C<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "2": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p2",
-        "bookable": "yes",
-        "carpark": "P2",
-        "carparkName": "Parkhaus P2",
-        "category": "terminal",
-        "categoryName": "Terminal Parken",
-        "routeType": "walk",
-        "routeT1": "2",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 1, Modul A - C<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "2": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
+        {
         "item": "p3",
         "bookable": "yes",
         "carpark": "P3",
@@ -66,110 +18,6 @@
                 "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
             },
             "2": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p4",
-        "bookable": "yes",
-        "carpark": "P4",
-        "carparkName": "Parkhaus P4",
-        "category": "terminal",
-        "categoryName": "Terminal Parken",
-        "routeType": "walk",
-        "routeT1": "2",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 1, Modul C - E<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "2": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p5",
-        "bookable": "yes",
-        "carpark": "P5",
-        "carparkName": "Parkhaus P5",
-        "category": "terminal",
-        "categoryName": "Terminal Parken",
-        "routeType": "walk",
-        "routeT1": "2",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 1 Modul A - C<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "2": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p7",
-        "bookable": "yes",
-        "carpark": "P7",
-        "carparkName": "Parkhaus P7",
-        "category": "terminal",
-        "categoryName": "Terminal Parken",
-        "routeType": "walk",
-        "routeT1": "2",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Best gelegenes Parkhaus für alle Abflüge ab Terminal 1, Modul C - E<br />Kurze Fußwege zum Terminal und Zentralbereich<br />Ideales Preis-/Leistungsverhältnis für Privat- und Geschäftsreisende<br />Barrierefreie Parkplätze sind ausgewiesen",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "2": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p8",
-        "bookable": "yes",
-        "carpark": "P50",
-        "carparkName": "Parkfläche P50",
-        "category": "budget",
-        "categoryName": "Economy Parken Nord",
-        "routeType": "bus",
-        "routeT1": "8",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Die Parkfläche zum besten Preis-/Leistungsverhältnis.<br />Parken Sie preisgünstig direkt auf den Außenstellflächen im Flughafengelände.<br />Freiflächen sind geeignet für Wohnmobile und Transporter - Einfahrtshöhe über zwei Meter.<br />In wenigen Gehminuten gelangen Sie von der Parkfläche P50 über den beschilderten Fußweg zur S-Bahnstation \"Besucherpark\".<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark im 10 Minutentakt<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn<br />Parkticket berechtigt alle Reisende zur kostenlosen Nutzung von S-Bahn und/oder Bus auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Direkter und kostenloser Bustransfer zu den Terminals mit der MVV-Linie 635 Haltestelle Besucherpark <br />Alle 20 Minuten von 03:56 bis 00:36 Uhr. Von 00:36 Uhr bis 3:56 Uhr besteht kein Bustransfer.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt auf den Parkplatz ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
                 "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
             }
@@ -224,98 +72,6 @@
         }
     },
     {
-        "item": "p27",
-        "bookable": "no",
-        "carpark": "P27",
-        "carparkName": "Parkfläche P27",
-        "category": "terminal",
-        "categoryName": "Terminal Parken",
-        "routeType": "walk",
-        "routeT1": "5",
-        "routeT2": "2",
-        "buttonText": "",
-        "buttonLinkAdress": "",
-        "description": "Ideal gelegener Parkplatz für Arztbesuche im Munich Airport Center<br />Parkplatz P27 eignet sich nur für kurze Parkzeiten<br />Bei längeren Parkzeiten empfehlen sich die terminalnahen Parkhäuser"
-    },
-    {
-        "item": "p35",
-        "bookable": "no",
-        "carpark": "P35",
-        "carparkName": "Parkfläche P35",
-        "category": "",
-        "categoryName": "",
-        "routeType": "walk",
-        "routeT1": "5",
-        "routeT2": "2",
-        "buttonText": "",
-        "buttonLinkAdress": "",
-        "description": "Die Freifläche steht Besuchern des General Aviation Terminals (GAT) zur Verfügung. Wenn Ihr Flug im Terminal 1 oder Terminal 2 startet, so nutzen Sie bitte ein alternatives Parkhaus."
-    },
-    {
-        "item": "p41",
-        "bookable": "yes",
-        "carpark": "P41",
-        "carparkName": "Parkfläche P41",
-        "category": "budget",
-        "categoryName": "Economy Parken Nord",
-        "routeType": "bus",
-        "routeT1": "6",
-        "routeT2": "8",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Freifläche mit bester Verbindung zu den Terminals<br />Parkplatz für Wohnwägen und Transporter<br />Kostenloser Transfer zu den Terminals mit Bus und S-Bahn.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle P41/Novotel und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p43",
-        "bookable": "yes",
-        "carpark": "P43",
-        "carparkName": "Parkfläche P43",
-        "category": "budget",
-        "categoryName": "Economy Parken Nord",
-        "routeType": "bus",
-        "routeT1": "6",
-        "routeT2": "8",
-        "buttonText": "Online buchen",
-        "buttonLinkAdress": "",
-        "description": "Parkhaus mit bester Verbindung zu den Terminals<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer zum Zentralbereich (T1/T2) mit Bus Linie 635 im 10 Minutentakt von 03:42 bis 00:52<br />Kostenlose Stornierung bis zur gebuchten Einfahrtszeit.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle P41/Novotel und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
         "item": "p44",
         "bookable": "yes",
         "carpark": "P44",
@@ -338,38 +94,6 @@
                 "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
             },
             "3": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p50",
-        "bookable": "yes",
-        "carpark": "P50",
-        "carparkName": "Parkfläche P50",
-        "category": "budget",
-        "categoryName": "Economy Parken Nord",
-        "routeType": "bus",
-        "routeT1": "8",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Die Parkfläche zum besten Preis-/Leistungsverhältnis.<br />Parken Sie preisgünstig direkt auf den Außenstellflächen im Flughafengelände.<br />Freiflächen sind geeignet für Wohnmobile und Transporter - Einfahrtshöhe über zwei Meter.<br />In wenigen Gehminuten gelangen Sie von der Parkfläche P50 über den beschilderten Fußweg zur S-Bahnstation Besucherpark.<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
                 "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
             }
@@ -409,194 +133,102 @@
         }
     },
     {
-        "item": "p55",
-        "bookable": "yes",
-        "carpark": "P55",
-        "carparkName": "Parkfläche P55",
-        "category": "budget",
-        "categoryName": "Economy Parken Nord",
-        "routeType": "bus",
-        "routeT1": "8",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Die Parkfläche zum besten Preis-/Leistungsverhältnis.<br />Parken Sie preisgünstig direkt auf den Außenstellflächen im Flughafengelände.<br />In wenigen Gehminuten gelangen Sie von der Parkfläche P55 über den beschilderten Fußweg zur S-Bahnstation Besucherpark.<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p73",
-        "bookable": "yes",
-        "carpark": "P73",
-        "carparkName": "Parkfläche P73",
-        "category": "budget",
-        "categoryName": "Economy Parken Süd",
-        "routeType": "bus",
-        "routeT1": "20",
-        "routeT2": "20",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Sonderparkplatz: sehr günstiger Tarif, jedoch längerer Fußweg zu/von S-Bahnstation Besucherpark.<br />Tipp: Lassen Sie Mitreisende mit Gepäck erst am Terminal aussteigen, bevor das Fahrzeug geparkt wird.<br />Parken Sie preisgünstig direkt auf den Außenstellflächen im Flughafengelände.<br />Ca. 1,2 km Fußweg bis zur S-Bahnstation Besucherpark.<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p74",
-        "bookable": "yes",
-        "carpark": "P74",
-        "carparkName": "Parkfläche P74",
-        "category": "budget",
-        "categoryName": "Economy Parken Süd",
-        "routeType": "bus",
-        "routeT1": "20",
-        "routeT2": "20",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Sonderparkplatz: sehr günstiger Tarif, jedoch längerer Fußweg zu/von S-Bahnstation Besucherpark.<br />Tipp: Lassen Sie Mitreisende mit Gepäck erst am Terminal aussteigen, bevor das Fahrzeug geparkt wird.<br />Parken Sie preisgünstig direkt auf den Außenstellflächen im Flughafengelände.<br />Ca. 1,2 km Fußweg bis zur S-Bahnstation Besucherpark.<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p84",
-        "bookable": "yes",
-        "carpark": "P84",
-        "carparkName": "Parkfläche P84",
-        "category": "budget",
-        "categoryName": "Economy Parken Nord",
-        "routeType": "bus",
-        "routeT1": "6",
-        "routeT2": "8",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Freifläche mit bester Verbindung zu den Terminals<br />Kostenloser Transfer zu den Terminals mit Bus und S-Bahn.",
-        "accordeon": {
-            "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
-            }
-        }
-    },
-    {
-        "item": "p90",
-        "bookable": "yes",
-        "carpark": "P90",
-        "carparkName": "Parkhaus P90",
-        "category": "budget",
-        "categoryName": "Economy Parken Süd",
-        "routeType": "bus",
-        "routeT1": "8",
-        "routeT2": "10",
-        "buttonText": "Jetzt Parkplatz buchen",
+        "item": "paudihaupt",
+        "bookable": "no",
+        "carpark": "150kW",
+        "carparkPosition": "",
+        "carparkName": "AUDI Haupttor",
+        "category": "fastcharging",
+        "categoryName": "Schnelllademöglichkeit",
+        "routeType": "charge",
+        "routeT1": "",
+        "routeT2": "",
+        "buttonText": "Keine Vorabbuchung möglich",
         "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Parkhaus zum besten Preis-/Leistungsverhältnis<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer zu den Terminals mit Bus und S-Bahn",
+        "description": "Schnelllademöglichkeit",
         "accordeon": {
             "1": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen und überdachten Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn.<br />Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+                "accordeonName": "Ladeleistung",
+                "accordeonText": "11kW"
             },
             "2": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
-            },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
-            },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+                "accordeonName": "Abrechnung",
+                "accordeonText": "Mit FMG Essenskarte"
             }
         }
     },
     {
-        "item": "p9123",
-        "bookable": "yes",
-        "carpark": "P91-P93",
-        "carparkName": "Parkflächen P91-P93",
-        "category": "budget",
-        "categoryName": "Economy Parken Süd",
-        "routeType": "bus",
-        "routeT1": "20",
-        "routeT2": "20",
-        "buttonText": "Jetzt Parkplatz buchen",
-        "buttonLinkAdress": "https://parken.munich-airport.de/de/",
-        "description": "Freifläche mit bester Verbindung zu den Terminals<br />Kostenloser Transfer zu den Terminals mit Bus und S-Bahn.",
+        "item": "paudiatc",
+        "bookable": "no",
+        "carpark": "150kW",
+        "carparkPosition": "",
+        "carparkName": "AUDI ATC",
+        "category": "fastcharging",
+        "categoryName": "Schnelllademöglichkeit",
+        "routeType": "charge",
+        "routeT1": "",
+        "routeT2": "",
+        "buttonText": "Keine Vorabbuchung möglich",
+        "buttonLinkAdress": "https://parken.munich-airport.de",
+        "description": "Schnelllademöglichkeit",
         "accordeon": {
             "1": {
-                "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+                "accordeonName": "Ladeleistung",
+                "accordeonText": "11kW"
             },
             "2": {
-                "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherparkplatz<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br /> Parkticket berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
+                "accordeonName": "Abrechnung",
+                "accordeonText": "Mit FMG Essenskarte"
+            }
+        }
+    },
+    {
+        "item": "phubost",
+        "bookable": "no",
+        "carpark": "150kW",
+        "carparkPosition": "",
+        "carparkName": "Schnelllade HUB Ost",
+        "category": "fastcharging",
+        "categoryName": "Schnelllademöglichkeit",
+        "routeType": "charge",
+        "routeT1": "",
+        "routeT2": "",
+        "buttonText": "Keine Vorabbuchung möglich",
+        "buttonLinkAdress": "https://parken.munich-airport.de",
+        "description": "Schnelllademöglichkeit",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Ladeleistung",
+                "accordeonText": "11kW"
             },
-            "3": {
-                "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+            "2": {
+                "accordeonName": "Abrechnung",
+                "accordeonText": "Mit FMG Essenskarte"
+            }
+        }
+    },
+    {
+        "item": "peniost",
+        "bookable": "no",
+        "carpark": "150kW",
+        "carparkPosition": "",
+        "carparkName": "Schnelllade HUB Ost",
+        "category": "fastcharging",
+        "categoryName": "Schnelllademöglichkeit",
+        "routeType": "charge",
+        "routeT1": "",
+        "routeT2": "",
+        "buttonText": "Keine Vorabbuchung möglich",
+        "buttonLinkAdress": "https://parken.munich-airport.de",
+        "description": "Schnelllademöglichkeit",
+        "accordeon": {
+            "1": {
+                "accordeonName": "Ladeleistung",
+                "accordeonText": "11kW"
             },
-            "4": {
-                "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
-                "accordeonText": "Kostenlose Stornierung bis kurz vor der gebuchten Einfahrtszeit möglich.<br />Wird die Buchung nicht in Anspruch genommen und nicht rechtzeitig storniert, wird das gebuchte Parkentgelt einbehalten."
+            "2": {
+                "accordeonName": "Abrechnung",
+                "accordeonText": "Mit FMG Essenskarte"
             }
         }
     }
