@@ -613,7 +613,7 @@ label {
     margin-left: -2px
 }
 
-[data-pubpix_category="fastcharging"] .pubpix-info__head__sign {
+.pubpix-info__head__field .pubpix-info__head__sign[data-pubpix_category="fastcharging"] {
     font-size: 12px;
     background: #24293F;
 }
