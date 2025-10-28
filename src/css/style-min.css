@@ -210,7 +210,7 @@ label {
     color: #24293F;
 }
 */
-#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_category^=emob] {
+#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_category^=electric] {
     background: #C3EDD5;
     color: #24293F;
 }
@@ -227,7 +227,7 @@ label {
     background: #C7ADC0
 }
 */
-#pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=emob] {
+#pubpix-map__legend .pubpix-map__legend__btn:hover[data-pubpix_category^=electric] {
     background: #C3EDD5;
 }
 
@@ -250,7 +250,7 @@ label {
     background: #E6C6DB
 }
 */
-#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=emob] {
+#pubpix-map__legend .pubpix-map__legend__btn[data-pubpix_active=true][data-pubpix_category^=electric] {
     background: #C3EDD5
 }
 
@@ -429,18 +429,18 @@ label {
         fill: #C7ADC0
     }
 
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=emob] .pubpix-svg__map-st7,
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=emob] .pubpix-svg__map-st7 {
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=electric] .pubpix-svg__map-st7,
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=electric] .pubpix-svg__map-st7 {
         fill: #C3EDD5
     }
 
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=emob] .pubpix-svg__map-st1,
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=emob] .pubpix-svg__map-st1 {
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=electric] .pubpix-svg__map-st1,
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=electric] .pubpix-svg__map-st1 {
         fill: #8CA99A
     }
 
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=emob] .pubpix-svg__map-st15,
-    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=emob] .pubpix-svg__map-st15 {
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p].pubpix-svg__map-p--filtered[data-pubpix_category^=electric] .pubpix-svg__map-st15,
+    svg#pubpix-svg__map [id^=pubpix-svg__map-p][data-pubpix_active=true][data-pubpix_category^=electric] .pubpix-svg__map-st15 {
         fill: #ACD1BE
     }
 
@@ -561,7 +561,7 @@ label {
     background: #E6C6DB
 }
 
-.pubpix-info__head__indicator-arrow[data-pubpix_category^=emob] {
+.pubpix-info__head__indicator-arrow[data-pubpix_category^=electric] {
     background: #C3EDD5
 }
 
