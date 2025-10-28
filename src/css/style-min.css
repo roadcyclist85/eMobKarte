@@ -600,23 +600,10 @@ label {
     padding-bottom: 4px
 }
 
-.pubpix-info__head__field {
+.pubpix-info__head__field .pubpix-info__head__sign {
     background: #24293F;
     width: 60px;
     height: 35px;
-    border-radius: 2px;
-    padding: 10px 10px 4px;
-    color: #fff;
-    font-size: 35px;
-    line-height: 35px;
-    text-align: center;
-    margin-left: -2px
-}
-
-.pubpix-info__head__sign {
-    background: #24293F;
-    width: 60px;
-    height: 20px;
     border-radius: 2px;
     padding: 10px 10px 4px;
     color: #fff;
