@@ -268,14 +268,14 @@ bus information on click
   <script id="pubpix-tmpl-info--head" type="text/x-jsrender">
         <div class="pubpix-info--{{:#index}}">
             <div class="pubpix-info__head__indicator-arrow" data-pubpix_category="{{:category}}" data-pubpix_bookable="{{:bookable}}">&#10095;</div>
-            <div class="pubpix-info__head__field--carpark">
+            <div class="pubpix-info__head__field pubpix-info__head__field--carpark">
                 <div class="pubpix-centered-container">
                     <h3>{{:categoryName}}</h3>
                     <h4>{{:carparkName}}</h4>
                 </div>
             </div>
             <div class="pubpix-info__head__field">
-                <div class=".pubpix-info__head__field pubpix-info__carpark"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
+                <div class=".pubpix-info__carpark"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
             </div>
             <div class="pubpix-info__head__field pubpix-info__head__field--route">
                 <div class="pubpix-centered-container">
