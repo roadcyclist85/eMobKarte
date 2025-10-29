@@ -275,7 +275,7 @@ bus information on click
                 </div>
             </div>
             <div class="pubpix-info__head__field pubpix-info__carpark">
-                {{:carpark}}
+                <div class="pubpix-info__carpark"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
             </div>
             <div class="pubpix-info__head__field pubpix-info__head__field--route">
                 <div class="pubpix-centered-container">
