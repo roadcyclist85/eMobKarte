@@ -274,8 +274,8 @@ bus information on click
                     <h4>{{:carparkName}}</h4>
                 </div>
             </div>
-            <div class="pubpix-info__head__field">
-                <div class="pubpix-info__head__field pubpix-info__carpark"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
+            <div class="pubpix-info__head__field pubpix-info__carpark">
+                <div class="pubpix-info__carpark"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
             </div>
             <div class="pubpix-info__head__field pubpix-info__head__field--route">
                 <div class="pubpix-centered-container">
@@ -288,6 +288,7 @@ bus information on click
                   {{/if}}
                 </div>
               </div>
+            {{if category !== "fastcharging"}}
             {{if buttonText && buttonLinkAdress}}
             <div class="pubpix-info__head__field pubpix-info__head__field--button">
                 <a class="pubpix-centered-container" href="{{:buttonLinkAdress}}" target="blank">
@@ -300,6 +301,7 @@ bus information on click
                     Online Buchung nicht m&ouml;glich
                 </a>
             </div>
+            {{/if}}
             {{/if}}
         </div>
 
