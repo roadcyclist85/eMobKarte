@@ -602,7 +602,7 @@ label {
 
 .pubpix-info__head__field .pubpix-info__head__sign {
     background: #24293F;
-    width: 60px;
+    width: 90px;
     height: 35px;
     border-radius: 2px;
     padding: 10px 10px 4px;
@@ -614,7 +614,7 @@ label {
 }
 
 .pubpix-info__head__field .pubpix-info__head__sign[data-pubpix_category="fastcharging"] {
-    font-size: 35px;
+    font-size: 12px;
     background: #24293F;
 }
 
