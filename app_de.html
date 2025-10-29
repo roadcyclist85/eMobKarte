@@ -274,9 +274,11 @@ bus information on click
                     <h4>{{:carparkName}}</h4>
                 </div>
             </div>
-            <div class="pubpix-info__head__field pubpix-info__carpark">
-                <div class="pubpix-info__carpark"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
+            {{if category !== "fastcharging"}}
+            <div class="pubpix-info__head__field">
+                <div class="pubpix-centered-container pubpix-info__head__sign"{{if carparkPosition}} data-pubpix_cp-pos="true"{{/if}}>{{:carpark}}{{if carparkPosition}}<span>{{:carparkPosition}}</span>{{/if}}</div>
             </div>
+            {{/if}}
             <div class="pubpix-info__head__field pubpix-info__head__field--route">
                 <div class="pubpix-centered-container">
                   <img src="assets/imgs/munich-airport_digital-parking__{{:routeType}}.svg" alt="route image" height="50" />
