@@ -613,7 +613,7 @@ label {
     margin-left: -2px
 }
 
-.pubpix-info__carpark {
+.pubpix-info__head__field .pubpix-info__carpark {
     background: #24293F;
     width: 100px;
     height: 35px;
