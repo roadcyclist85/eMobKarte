@@ -4,7 +4,7 @@
         "bookable": "yes",
         "carpark": "P3",
         "carparkName": "Parkhaus P3",
-        "category": "electric",
+        "category": "terminal electric",
         "categoryName": "Terminal Parken",
         "routeType": "walk",
         "routeT1": "2",
@@ -15,7 +15,7 @@
         "accordeon": {
             "1": {
                 "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken oder am Handy bereit halten<br />QR-Code an den Scanner der Einfahrtssäule halten oder bei Kennzeichenerkennung das hinterlegte Kennzeichen zur Einfahrt nutzen<br />Schranke öffnet sich. Es wird kein Ticket ausgegeben. Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise können Sie mit Ihrem QR-Code bzw. Kennzeichen direkt ausfahren"
             },
             "2": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
@@ -28,7 +28,7 @@
         "bookable": "yes",
         "carpark": "P20",
         "carparkName": "Parkhaus P20",
-        "category": "electric",
+        "category": "terminal valet electric",
         "categoryName": "Terminal Parken",
         "routeType": "walk",
         "routeT1": "5",
@@ -39,7 +39,7 @@
         "accordeon": {
             "1": {
                 "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken oder am Handy bereit halten<br />QR-Code an den Scanner der Einfahrtssäule halten oder bei Kennzeichenerkennung das hinterlegte Kennzeichen zur Einfahrt nutzen<br />Schranke öffnet sich. Es wird kein Ticket ausgegeben. Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise können Sie mit Ihrem QR-Code bzw. Kennzeichen direkt ausfahren"
             },
             "2": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
@@ -52,7 +52,7 @@
         "bookable": "yes",
         "carpark": "P26",
         "carparkName": "Parkhaus P26",
-        "category": "electric",
+        "category": "terminal electric",
         "categoryName": "Terminal Parken",
         "routeType": "walk",
         "routeT1": "5",
@@ -63,7 +63,7 @@
         "accordeon": {
             "1": {
                 "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken oder am Handy bereit halten<br />QR-Code an den Scanner der Einfahrtssäule halten oder bei Kennzeichenerkennung das hinterlegte Kennzeichen zur Einfahrt nutzen<br />Schranke öffnet sich. Es wird kein Ticket ausgegeben. Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise können Sie mit Ihrem QR-Code bzw. Kennzeichen direkt ausfahren"
             },
             "2": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
@@ -76,22 +76,22 @@
         "bookable": "yes",
         "carpark": "P44",
         "carparkName": "Parkhaus P44",
-        "category": "electric",
+        "category": "budget electric",
         "categoryName": "Economy Parken Nord",
         "routeType": "bus",
-        "routeT1": "6",
-        "routeT2": "8",
+        "routeT1": "8",
+        "routeT2": "10",
         "buttonText": "Jetzt Parkplatz buchen",
         "buttonLinkAdress": "https://parken.munich-airport.de/de/",
         "description": "Parkhaus mit bester Verbindung zu den Terminals<br />Garantierter Stellplatz<br />Direkter und kostenloser Transfer zum Zentralbereich (T1/T2) mit Bus Linie 635 im 10 Minutentakt von 03:42 bis 00:52<br />Kostenlose Stornierung bis zur gebuchten Einfahrtszeit.<br />Parkhaus mit Stellplätzen für Elektrofahrzeuge (je nach Verfügbarkeit)<br />Die Stellplätze befinden sich im P44 auf Ebene 04<br />Weitere Informationen zum Elektroladen: <a href='https://www.munich-airport.de/elektrofahrzeug-laden-8467114'>Elektrofahrzeug laden</a>",
         "accordeon": {
             "1": {
                 "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle P44/LabCampus und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle P44/LabCampus und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage der Buchungsbestätigung) kostenfrei."
             },
             "2": {
                 "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken oder am Handy bereit halten<br />QR-Code an den Scanner der Einfahrtssäule halten oder bei Kennzeichenerkennung das hinterlegte Kennzeichen zur Einfahrt nutzen<br />Schranke öffnet sich. Es wird kein Ticket ausgegeben. Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise können Sie mit Ihrem QR-Code bzw. Kennzeichen direkt ausfahren"
             },
             "3": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
@@ -103,28 +103,27 @@
         "item": "p51",
         "bookable": "yes",
         "carpark": "P51",
-        "carparkPosition": "",
         "carparkName": "Parkhaus P51",
-        "category": "electric",
+        "category": "budget electric",
         "categoryName": "Economy Parken Nord",
         "routeType": "bus",
-        "routeT1": "8",
+        "routeT1": "20",
         "routeT2": "10",
         "buttonText": "Jetzt Parkplatz buchen",
         "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Parkhaus zum besten Preis-/Leistungsverhältnis<br />In wenigen Gehminuten gelangen Sie vom Parkhaus P51 über den beschilderten Fußweg zur S-Bahnstation \"Besucherpark\"<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635",
+        "description": "Parkhaus zum besten Preis-/Leistungsverhältnis<br />In wenigen Gehminuten gelangen Sie vom Parkhaus P51 über den beschilderten Fußweg zur S-Bahnstation \"Besucherpark\"<br />Kostenloser Transfer zu den Terminals mit S-Bahn Linie S1/S8 und Bus Linie 635<br />Parkhaus mit Stellplätzen für Elektrofahrzeuge (je nach Verfügbarkeit)<br />Die Stellplätze befinden sich im P51 im Erdgeschoss<br />Weitere Informationen zum Elektroladen: <a href='https://www.munich-airport.de/elektrofahrzeug-laden-8467114'>Elektrofahrzeug laden</a>",
         "accordeon": {
             "1": {
                 "accordeonName": "S-Bahn Transfer",
-                "accordeonText": "Direkter und kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark im 10 Minutentakt<br />S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br />S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen kurzen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn<br />Parkticket berechtigt alle Reisende zur kostenlosen Nutzung von S-Bahn und/oder Bus auf dem Flughafengelände. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+                "accordeonText": "Direkter kostenloser Transfer mit der S-Bahn Line S1 und S8 Haltestelle Besucherpark<br /> S1 alle 20 Minuten von 04:24 bis 00:04 Uhr<br /> S8 alle 20 Minuten von 00:53 bis 00:33 Uhr<br />Über einen Fußweg gelangen Sie zur S-Bahn Haltestelle Besucherpark, folgen Sie der Beschilderung Richtung S-Bahn.<br />Buchungsbestätigung berechtigt zur kostenlosen Nutzung von Bus und/oder S-Bahn auf dem Flughafengelände."
             },
             "2": {
                 "accordeonName": "Bustransfer",
-                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage des Parktickets) kostenfrei. Das Parkticket wird automatisch an der Einfahrt zum Parkbereich ausgegeben, bitte bewahren Sie dieses gut auf."
+                "accordeonText": "Die Buslinie 635 fährt im 10 Minutentakt von 03:42 bis 00:52 Uhr zwischen Haltestelle Besucherpark und den Terminals.<br />Der Transfer dauert ca. 10 Minuten und ist für alle Beteiligten (gegen Vorlage der Buchungsbestätigung) kostenfrei."
             },
             "3": {
                 "accordeonName": "Nutzung QR-Code",
-                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken<br />QR-Code an den Scanner der Einfahrtssäule halten<br />Ticket wird automatisch ausgegeben, dieses bitte abziehen<br />Schranke öffnet sich, Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise müssen Sie nicht zum Kassenautomaten - Sie können mit Ihrem Parkticket direkt ausfahren<br />Dafür Parkticket in die Ausfahrtssäule stecken, abziehen, Schranke öffnet sich und Sie können ausfahren"
+                "accordeonText": "So funktioniert die Einfahrt mit QR-Code:<br />Buchungsbestätigung mit QR-Code für die Einfahrt ins Parkhaus ausdrucken oder am Handy bereit halten<br />QR-Code an den Scanner der Einfahrtssäule halten oder bei Kennzeichenerkennung das hinterlegte Kennzeichen zur Einfahrt nutzen<br />Schranke öffnet sich. Es wird kein Ticket ausgegeben. Sie können ins Parkhaus einfahren<br />Nach Ihrer Rückreise können Sie mit Ihrem QR-Code bzw. Kennzeichen direkt ausfahren"
             },
             "4": {
                 "accordeonName": "Stornierung Ihrer Parkplatzbuchung",
