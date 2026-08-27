@@ -135,25 +135,19 @@
     {
         "item": "paudihaupt",
         "bookable": "no",
-        "carpark": "150kW",
+        "carpark": "350kW",
         "carparkPosition": "",
-        "carparkName": "AUDI Haupttor",
+        "carparkName": "Audi Training Center II",
         "category": "fastcharging",
         "categoryName": "Schnelllademöglichkeit",
         "routeType": "charge",
         "routeT1": "",
         "routeT2": "",
-        "buttonText": "Keine Vorabbuchung möglich",
-        "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Schnelllademöglichkeit",
+        "description": "",
         "accordeon": {
             "1": {
                 "accordeonName": "Ladeleistung",
-                "accordeonText": "11kW"
-            },
-            "2": {
-                "accordeonName": "Abrechnung",
-                "accordeonText": "Mit FMG Essenskarte"
+                "accordeonText": "2x bis 350 kW<br />6x bis 11 kW<br />Betrieben durch Audi"
             }
         }
     },
@@ -162,23 +156,17 @@
         "bookable": "no",
         "carpark": "150kW",
         "carparkPosition": "",
-        "carparkName": "AUDI ATC",
+        "carparkName": "Audi Brand Experience Center",
         "category": "fastcharging",
         "categoryName": "Schnelllademöglichkeit",
         "routeType": "charge",
         "routeT1": "",
         "routeT2": "",
-        "buttonText": "Keine Vorabbuchung möglich",
-        "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Schnelllademöglichkeit",
+        "description": "",
         "accordeon": {
             "1": {
                 "accordeonName": "Ladeleistung",
-                "accordeonText": "11kW<br />"
-            },
-            "2": {
-                "accordeonName": "Abrechnung",
-                "accordeonText": "Mit FMG Essenskarte"
+                "accordeonText": "8x bis 150 kW<br />Betrieben durch Audi"
             }
         }
     },
