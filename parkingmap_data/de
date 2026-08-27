@@ -185,7 +185,7 @@
     {
         "item": "phubost",
         "bookable": "no",
-        "carpark": "150kW",
+        "carpark": "300kW",
         "carparkPosition": "",
         "carparkName": "Schnelllade HUB Ost",
         "category": "fastcharging",
@@ -193,17 +193,15 @@
         "routeType": "charge",
         "routeT1": "",
         "routeT2": "",
-        "buttonText": "Keine Vorabbuchung möglich",
-        "buttonLinkAdress": "https://parken.munich-airport.de",
-        "description": "Schnelllademöglichkeit",
+        "description": "",
         "accordeon": {
             "1": {
                 "accordeonName": "Ladeleistung",
-                "accordeonText": "11kW"
+                "accordeonText": "2x bis 300 kW"
             },
             "2": {
                 "accordeonName": "Abrechnung",
-                "accordeonText": "Mit FMG Essenskarte"
+                "accordeonText": "Ad-hoc-Preis 0,69€/kWh + 0,20€/min nach 90 min."
             }
         }
     },
@@ -218,7 +216,7 @@
         "routeType": "charge",
         "routeT1": "",
         "routeT2": "",
-        "description": "Schnelllademöglichkeit",
+        "description": "",
         "accordeon": {
             "1": {
                 "accordeonName": "Ladeleistung",
