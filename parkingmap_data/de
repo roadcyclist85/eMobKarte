@@ -204,6 +204,8 @@
         "routeType": "charge",
         "routeT1": "",
         "routeT2": "",
+        "buttonText": "110kW",
+        "buttonLinkAdress": "",
         "description": "",
         "accordeon": {
             "1": {
