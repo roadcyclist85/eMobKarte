@@ -174,7 +174,7 @@
         "accordeon": {
             "1": {
                 "accordeonName": "Ladeleistung",
-                "accordeonText": "11kW"
+                "accordeonText": "11kW<br />"
             },
             "2": {
                 "accordeonName": "Abrechnung",
@@ -210,25 +210,19 @@
     {
         "item": "peniost",
         "bookable": "no",
-        "carpark": "150kW",
+        "carpark": "110kW",
         "carparkPosition": "",
-        "carparkName": "Schnelllade HUB Ost",
+        "carparkName": "Eni Tankstelle Ost",
         "category": "fastcharging",
         "categoryName": "Schnelllademöglichkeit",
         "routeType": "charge",
         "routeT1": "",
         "routeT2": "",
-        "buttonText": "Keine Vorabbuchung möglich",
-        "buttonLinkAdress": "https://parken.munich-airport.de",
         "description": "Schnelllademöglichkeit",
         "accordeon": {
             "1": {
                 "accordeonName": "Ladeleistung",
-                "accordeonText": "11kW"
-            },
-            "2": {
-                "accordeonName": "Abrechnung",
-                "accordeonText": "Mit FMG Essenskarte"
+                "accordeonText": "4x bis 110 kW<br />2x bis 22 kW<br />Betrieben durch ENI"
             }
         }
     }
